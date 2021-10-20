@@ -13,7 +13,7 @@ Airtableで採用管理シートを作りました。
 
 ## 手順
 
-- [使い方の確認](howtouse.md)
+- [使い方の確認](https://github.com/caster-biz-recruiting/free-ats/blob/main/how-to-use.md)
 
 - シートの権限お渡し方法（やや複雑）
 
