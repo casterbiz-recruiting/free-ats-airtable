@@ -1,4 +1,4 @@
-# free-ats
+# free-ats-airtable
 Airtableで採用管理シートを作りました。
 
 <img width="1398" alt="01" src="https://user-images.githubusercontent.com/92830266/138036623-d2f6f1e0-cd37-4a1a-8a71-0228637031f9.png">
