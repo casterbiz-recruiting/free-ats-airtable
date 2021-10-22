@@ -1,6 +1,8 @@
 # 権限の付与方法
 
-1.以下のフォームに入力 または DM
+1.以下のフォーム または DM から申し込み
+- [フォーム](https://recruiting.cast-er.com/form/applicant-tracking.html)
+- [DM](https://---.com)
 
 2.担当者からのメールに記載されているURLにアクセスする
 
@@ -25,3 +27,5 @@
 →My first Workspaceに生成された採用管理シートをお使いください。
 
 <img width="1332" alt="05" src="https://user-images.githubusercontent.com/8325473/138042790-2298cd3a-d916-43b3-a82a-01556883e2cf.png">
+
+8.無事作成できたらご一報ください
