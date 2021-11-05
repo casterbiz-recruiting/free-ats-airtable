@@ -1,8 +1,7 @@
 # 権限の付与方法
 
-1.以下のフォーム または DM から申し込み
+1.以下のフォーム から申し込み
 - [フォーム](https://recruiting.cast-er.com/form/applicant-tracking.html)
-- [DM](https://---.com)
 
 2.担当者からのメールに記載されているURLにアクセスする
 
