@@ -29,7 +29,8 @@ Airtableで採用管理シートを作りました。
 
 2.基本的にはAirtableの無料の範囲内でご利用いただけますが、データが増えてきた場合には課金が必要になる可能性があります。
 
+3.権限付与方法が複雑なため、利用開始まで手間と時間がかかります。
 
 ## Contact
 
-CASTER BIZ recruiting
+[CASTER BIZ recruiting](https://recruiting.cast-er.com/)
